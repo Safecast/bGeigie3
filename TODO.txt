@@ -6,7 +6,8 @@
 * Add Battery sensing circuitry
 * Add line between Atmega32u4 and Atmega1284p
 * Check how the SPI stuff will playout between the two ICS 
-(2 masters, connected to SD card), we might need to be able to power them independently
+  (2 masters, connected to SD card), we might need to be able to power them independently
+* Add the 5V boost converter for the High Voltage Power supply
 
 
 ## Before manufacturing
