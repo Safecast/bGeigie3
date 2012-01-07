@@ -5,7 +5,9 @@
   - on/off pins
   - ...
 * Add power supply on Atmega32u4  
-
+* Add audio jack 3.5mm (+direct solder holes) with pull-down resistor!
+* Add holes for high voltage power supply board
+* Add some status LEDs (from 1284p digital pin, optional)
 
 ## Before manufacturing
 
