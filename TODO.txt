@@ -1,16 +1,17 @@
 ## TODO
 
-* Add antenna connectors (GPS)
 * Add pull-up/down for important connections
-  - on/off pins
-  - ...
-* Add power supply on Atmega32u4  
+  - done for SD, GPS
+  - in principle, done for radio too, but check more datasheet
 * Add audio jack 3.5mm (+direct solder holes) with pull-down resistor!
 * Add holes for high voltage power supply board
 * Add some status LEDs (from 1284p digital pin, optional)
+* Replace big SD card by micro SD card
+* Replace HT77XXA by MAX1624 (?)
+
+* Finish BOM
 
 ## Before manufacturing
 
 * Check all footprints
 * Source components
-* Check sourcing for HT77XXA (SOT23-5)
