@@ -5,9 +5,8 @@
   - in principle, done for radio too, but check more datasheet
 * Add audio jack 3.5mm (+direct solder holes) with pull-down resistor!
 * Add holes for high voltage power supply board
-* Add some status LEDs (from 1284p digital pin, optional)
 * Replace big SD card by micro SD card
-* Replace HT77XXA by MAX1624 (?)
+* Replace HT77XXA by MAX1724 (?)
 
 * Finish BOM
 
