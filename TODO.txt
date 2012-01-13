@@ -7,6 +7,7 @@
 * Add holes for high voltage power supply board
 * Replace big SD card by micro SD card
 * Replace HT77XXA by MAX1724 (?)
+* Breakout pins from 32u4
 
 * Finish BOM
 

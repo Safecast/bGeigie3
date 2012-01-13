@@ -32,3 +32,23 @@ Let's use a voltage divider with R1 = 300K and R2 = 100K.
 Then Vs = R2/(R1+R2) = 1/4*Vin, giving a range of 1.05 to 0.875V roughly. We
 decide to use the 1.1 reference. This gives use roughly 160 levels of
 resolution.
+
+### 50 Ohm trace for the Radio and GPS antennas
+
+* Wiki entry on [microstrips](http://en.wikipedia.org/wiki/Microstrip)
+* Microstrip impedance [calculator](http://www.cepd.com/calculators/microstrip.htm)
+
+As a starting point, I used the following values based on [PCB Fusion](http://www.seeedstudio.com/depot/fusion-pcb-service-p-835.html?cPath=185).
+
+* Trace width: 2.815mm (need to look-up tolerance of printing service)
+* Substrate height: 1.6mm (standard from PCB Fusion)
+* Copper thickness: 0.035mm (guessed from PCB Fusion characteristics, inner layer ?)
+
+give an impedance Z=50.04 Ohms.
+
+### Possible printing services
+
+* [PCB Fusion](http://www.seeedstudio.com/depot/fusion-pcb-service-p-835.html?cPath=185)
+* [PCB Cart](http://www.pcbcart.com/) (seems to offer manufacturing too)
+* [PCB Express](http://www.pcbexpress.com/)
+
