@@ -27,10 +27,10 @@ The Atmega1284p has two internal analog references: 1.1 or 2.56.
 
 We need to sense the battery voltage between 4.2 and 3.5V.
 
-Let's use a voltage divider with R1 = 300K and R2 = 100K.
+Let's use a voltage divider with R1 = 100K and R2 = 120K.
 
-Then Vs = R2/(R1+R2) = 1/4*Vin, giving a range of 1.05 to 0.875V roughly. We
-decide to use the 1.1 reference. This gives use roughly 160 levels of
+Then Vs = R2/(R1+R2) = 0.54*Vin, giving a range of 2.3V to 1.89V roughly. We
+decide to use the 2.5 reference. This gives use roughly 170 levels of
 resolution.
 
 ### 50 Ohm trace for the Radio and GPS antennas
