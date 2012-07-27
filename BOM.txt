@@ -1,6 +1,6 @@
 Partlist
 
-Exported from bGeigie2.sch at 07.07.12 18:51
+Exported from bGeigie2.sch at 27.07.12 09:13
 
 EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
 
