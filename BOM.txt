@@ -1,6 +1,6 @@
 Partlist
 
-Exported from bGeigie2.sch at 27.07.12 09:13
+Exported from bGeigie2.sch at 13.09.12 17:58
 
 EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
 
@@ -49,7 +49,7 @@ C33          0.1uF                CAP0603-CAP          0603-CAP              Spa
 C34          22pF                 CAP0603-CAP          0603-CAP              SparkFun         1
 C35          0.1uF                CAP0603-CAP          0603-CAP              SparkFun         1
 C36          0.1uF                CAP0603-CAP          0603-CAP              SparkFun         1
-C37                               CPOL-USD/7343-31W    D/7343-31W            rcl              1
+C37                               CPOL-USD/7343-31W    D/7343-31W            Robin            1
 CHARGE1      MCP73831/OT          MCP73831/OT          SOT23-5L              adafruit         1
 F1                                L-FERRITE-BEAD-0805  0805                  Discreter        1
 F2                                L-FERRITE-BEAD-0805  0805                  Discreter        1
